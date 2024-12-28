@@ -1,0 +1,1 @@
+This repository contains a shell script that demonstrates a common error when working with filenames in a loop.  The script attempts to remove files from a directory. However, it fails if filenames contain spaces or special characters. The bug is fixed in the `bugSolution.sh` file.
